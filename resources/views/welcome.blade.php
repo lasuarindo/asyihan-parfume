@@ -146,7 +146,7 @@
                 <span class="animate-rune-flick" style="animation-delay: 4s;">♄</span>
                 <span class="animate-rune-flick" style="animation-delay: 0.4s;">☽</span>
                 <span class="animate-rune-flick" style="animation-delay: 1.2s;">♆</span>
-                <span class="animate-rune-flick" style="animation-delay: 2s;">♇</span>
+                <span class="animate-rune-flick" style="animation-delay: 2s;">Ꭾ</span>
             </div>
 
             <a href="{{ route('about') }}" class="inline-block text-[11px] sm:text-xs text-gold-400 uppercase tracking-[0.2em] border-b border-gold-400/50 pb-0.5 hover:border-gold-400 hover:text-white transition-all">
